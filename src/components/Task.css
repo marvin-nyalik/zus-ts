@@ -1,0 +1,7 @@
+.COMPLETED {
+  text-decoration: line-through;
+}
+
+.PENDING {
+  text-decoration: none;
+}
