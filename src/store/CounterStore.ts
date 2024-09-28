@@ -44,4 +44,4 @@ const usePersonStore = create<People>((set) => ({
     })),
 }));
 
-export default [useCounterStore, usePersonStore];
+export {useCounterStore, usePersonStore};
